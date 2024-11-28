@@ -1,0 +1,42 @@
+[
+    {
+        "author": "Albert Einstein",
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "image": "einstein.png"
+    },
+    {
+        "author": "Albert Einstein",
+        "quote": "Imagination is more important than knowledge. Knowledge is limited; imagination encircles the world.",
+        "image": "einstein.png"
+    },
+    {
+        "author": "Steve Jobs",
+        "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+        "image": "steveJobs.png"
+    },
+    {
+        "author": "Steve Jobs",
+        "quote": "Innovation distinguishes between a leader and a follower.",
+        "image": "steveJobs.png"
+    },
+    {
+        "author": "Nelson Mandela",
+        "quote": "It always seems impossible until it’s done.",
+        "image": "mandela.png"
+    },
+    {
+        "author": "Nelson Mandela",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "image": "mandela.png"
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "quote": "Be the change that you wish to see in the world.",
+        "image": "gandhi.png"
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "quote": "The best way to find yourself is to lose yourself in the service of others.",
+        "image": "gandhi.png"
+    }
+]
